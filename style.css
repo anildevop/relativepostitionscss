@@ -1,0 +1,23 @@
+.Topcontainer{
+  background-color: red;
+  height:200px;
+  width: 200px;
+  display:inline-block;
+
+}
+.Middlecontainer{
+  background-color: yellow;
+  height: 200px;
+  width:200px;
+  display:inline-block;
+  position: relative;
+  top:200px;
+}
+.Bottomcontainer{
+  background-color: green;
+  height: 200px;
+  width:200px;
+  display:inline-block;
+  position: relative;
+  top:400px;
+}
